@@ -1,4 +1,4 @@
 Heart Disease Prediction using Logisitc Regression, SVM, Random Forest and XGBoost
 
 > [!IMPORTANT]
-> Version control has been done with the help of Nix
+> Version control has been done with the help of Nix-flake
